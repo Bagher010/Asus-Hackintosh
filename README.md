@@ -128,6 +128,3 @@ Special thanks to:
 
 ## Disclaimer
 This guide is for educational purposes only. Use at your own risk. The author is not responsible for any damage resulting from following this guide.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
